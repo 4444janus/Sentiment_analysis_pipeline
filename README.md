@@ -1,1 +1,1 @@
-# Sentiment_analysis_pipeline
+This pipeline is written for the Master Artificial Intellicence at the Vrije Univeriteit Amsterdam.
